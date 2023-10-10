@@ -2,7 +2,7 @@ This is a simple web project that involves user registration and login functiona
 
 # Deployment
 
-Deployed Website: [https://Registration.com](https://laith17.github.io/School-system/).
+Deployed Website: [https://Registration.com](https://laith17.github.io/registration/).
 
 # Skills Used
 
